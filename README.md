@@ -1,3 +1,4 @@
 # ML-Project-Certificates by Talent Battle
-Stress Detection Using ML
-Hand Written Digit Recogintion Using ML
+1. Stress Detection Using ML
+
+2. Hand Written Digit Recogintion Using ML
